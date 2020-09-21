@@ -1,3 +1,5 @@
+// This was the first attempt and was completed in 30:03
+
 function sumFor(list) {
   let sum = 0;
   for (let x = 0; x < list.length; x++) {
